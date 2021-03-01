@@ -10,7 +10,7 @@
   
 ## Charles
 ### Charles简介
-- [内容](docs/01 Charles简介.pdf)
+- [内容](https://github.com/paulonglong/charles/blob/master/docs/01%20Charles%E7%AE%80%E4%BB%8B.pdf)
 ### HTTP报文的抓取配置
 - [内容](docs/02 HTTP报文的抓取配置.pdf)
 ### HTTPS报文的抓取配置
